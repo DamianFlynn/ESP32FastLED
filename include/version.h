@@ -1,0 +1,2 @@
+#define SKETCH_VERSION "20190829"
+#define SHOW_FPS_SERIAL
